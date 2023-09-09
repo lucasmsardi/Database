@@ -1,0 +1,66 @@
+{
+    "codigo": 10,
+    "nome": "Construtora Alfa S.A.",
+    "nome fantasia": "Alfa incorporações",
+    "obras": [
+    {
+            "código": 115,
+            "logradouro": "Travessa dos Lagos",
+            "número": 100,
+            "complemento": "Norte",
+            "nome": "Condomínio dos Lagos"
+    },
+    {
+            "código": 116,
+            "logradouro": "Avenida Rio Grande",
+            "número": 22,
+            "complemento": "Lado A",
+            "nome": "Condomínio Araras"
+    }
+    ],
+    "telefones": [
+    {
+        "número": "(51)3333-3334"
+    },
+    {
+        "número": "(51)3333-3335"
+    },
+    {
+        "número": "(51)3333-3336"
+    }
+    ],
+    "trabalhadores": [
+        {
+            "cpf": "101.101.101-34",
+            "nome": "José Chaves",
+            "salário": 2200.00,
+            "obra": 115
+        },
+        {
+            "cpf": "102.102.102-91",
+            "nome": "Pedro Passos",
+            "salário": 3502.18,
+            "obra": 115 
+        },
+        {
+            "cpf": "103.103.103-18",
+            "nome": "Maria Aparecida",
+            "salário": 2800.87,
+            "obra": 115
+        },
+        {
+            "cpf": "104.104.104-52",
+            "nome": "Carlos Dutra",
+            "salário": 3100.00,
+            "obra": 116
+        },
+        {
+            "cpf": "105.105.105-85",
+            "nome": "Mário Pires",
+            "salário": 4323.29,
+            "obra": 116
+        }
+    ]
+
+}
+
